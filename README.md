@@ -10,4 +10,6 @@
 
 6.https://leetcode.com/problems/fibonacci-number/
 
-7.https://leetcode.com/problems/add-digits
+7.https://leetcode.com/problems/add-digits/
+
+8.https://leetcode.com/problems/plus-one/
