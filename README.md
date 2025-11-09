@@ -13,3 +13,5 @@
 7.https://leetcode.com/problems/add-digits/
 
 8.https://leetcode.com/problems/plus-one/
+
+9.https://leetcode.com/problems/third-maximum-number/
