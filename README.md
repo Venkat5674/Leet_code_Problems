@@ -15,3 +15,5 @@
 8.https://leetcode.com/problems/plus-one/
 
 9.https://leetcode.com/problems/third-maximum-number/
+
+10.https://leetcode.com/problems/first-unique-character-in-a-string/
