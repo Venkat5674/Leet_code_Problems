@@ -31,3 +31,5 @@
 16.https://leetcode.com/problems/find-common-characters/
 
 17.https://leetcode.com/problems/teemo-attacking/
+
+18.https://leetcode.com/problems/single-number/
