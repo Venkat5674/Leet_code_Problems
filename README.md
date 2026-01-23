@@ -33,3 +33,5 @@
 17.https://leetcode.com/problems/teemo-attacking/
 
 18.https://leetcode.com/problems/single-number/
+
+19.https://leetcode.com/problems/minimum-depth-of-binary-tree
