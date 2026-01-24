@@ -35,3 +35,5 @@
 18.https://leetcode.com/problems/single-number/
 
 19.https://leetcode.com/problems/minimum-depth-of-binary-tree
+
+20.https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
