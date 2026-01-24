@@ -37,3 +37,5 @@
 19.https://leetcode.com/problems/minimum-depth-of-binary-tree
 
 20.https://leetcode.com/problems/minimize-maximum-pair-sum-in-array
+
+21.https://leetcode.com/problems/valid-palindrome/
