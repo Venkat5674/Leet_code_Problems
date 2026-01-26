@@ -41,3 +41,5 @@
 21.https://leetcode.com/problems/valid-palindrome/
 
 22.https://leetcode.com/problems/remove-element/
+
+23.https://leetcode.com/problems/minimum-absolute-difference/
