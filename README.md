@@ -47,3 +47,5 @@
 24.https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 25.https://leetcode.com/problems/combination-sum/
+
+26.https://leetcode.com/problems/missing-number/
