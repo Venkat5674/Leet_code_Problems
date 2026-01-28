@@ -49,3 +49,5 @@
 25.https://leetcode.com/problems/combination-sum/
 
 26.https://leetcode.com/problems/missing-number/
+
+27.https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
