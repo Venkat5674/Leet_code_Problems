@@ -53,3 +53,5 @@
 27.https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 
 28.https://leetcode.com/problems/merge-two-sorted-lists/
+
+29.https://leetcode.com/problems/majority-element/
