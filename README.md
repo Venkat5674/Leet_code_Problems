@@ -71,3 +71,5 @@
 36.https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 37.https://leetcode.com/problems/minimum-removals-to-balance-array/
+
+38.https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
