@@ -75,3 +75,5 @@
 38.https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 
 39.https://leetcode.com/problems/balanced-binary-tree/
+
+40.https://leetcode.com/problems/balance-a-binary-search-tree/
