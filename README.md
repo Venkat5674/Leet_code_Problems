@@ -79,3 +79,5 @@
 40.https://leetcode.com/problems/balance-a-binary-search-tree/
 
 41.https://leetcode.com/problems/longest-balanced-subarray-i/
+
+42.https://leetcode.com/problems/longest-balanced-subarray-ii/
