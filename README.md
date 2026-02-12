@@ -81,3 +81,5 @@
 41.https://leetcode.com/problems/longest-balanced-subarray-i/
 
 42.https://leetcode.com/problems/longest-balanced-subarray-ii/
+
+43.https://leetcode.com/problems/longest-balanced-substring-i/
