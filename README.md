@@ -83,3 +83,5 @@
 42.https://leetcode.com/problems/longest-balanced-subarray-ii/
 
 43.https://leetcode.com/problems/longest-balanced-substring-i/
+
+44.https://leetcode.com/problems/ugly-number/
