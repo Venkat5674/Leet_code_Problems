@@ -85,3 +85,5 @@
 43.https://leetcode.com/problems/longest-balanced-substring-i/
 
 44.https://leetcode.com/problems/ugly-number/
+
+45.https://leetcode.com/problems/longest-balanced-substring-ii/
