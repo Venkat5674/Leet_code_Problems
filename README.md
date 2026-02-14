@@ -87,3 +87,5 @@
 44.https://leetcode.com/problems/ugly-number/
 
 45.https://leetcode.com/problems/longest-balanced-substring-ii/
+
+46.https://leetcode.com/problems/champagne-tower/
