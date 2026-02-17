@@ -93,3 +93,5 @@
 47.https://leetcode.com/problems/day-of-the-year/
 
 48.https://leetcode.com/problems/intersection-of-two-arrays/
+
+49.https://leetcode.com/problems/binary-watch/
