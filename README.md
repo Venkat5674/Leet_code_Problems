@@ -95,3 +95,5 @@
 48.https://leetcode.com/problems/intersection-of-two-arrays/
 
 49.https://leetcode.com/problems/binary-watch/
+
+50.https://leetcode.com/problems/count-binary-substrings/
