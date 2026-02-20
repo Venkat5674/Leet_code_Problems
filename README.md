@@ -97,3 +97,5 @@
 49.https://leetcode.com/problems/binary-watch/
 
 50.https://leetcode.com/problems/count-binary-substrings/
+
+51.https://leetcode.com/problems/special-binary-string/
