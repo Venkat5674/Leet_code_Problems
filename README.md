@@ -99,3 +99,5 @@
 50.https://leetcode.com/problems/count-binary-substrings/
 
 51.https://leetcode.com/problems/special-binary-string/
+
+52.https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
