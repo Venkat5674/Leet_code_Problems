@@ -1,4 +1,4 @@
-1.https://leetcode.com/problems/add-two-promises/
+1. https://leetcode.com/problems/add-two-promises/
 
 2. https://leetcode.com/problems/sleep/
 
