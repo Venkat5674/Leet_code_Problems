@@ -107,3 +107,5 @@
 54.https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 
 55.https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+
+56.https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
