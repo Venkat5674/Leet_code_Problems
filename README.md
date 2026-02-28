@@ -111,3 +111,5 @@
 56.https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 
 57.https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
+
+58.https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
