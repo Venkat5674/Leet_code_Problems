@@ -113,3 +113,5 @@
 57.https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/
 
 58.https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+
+59.https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
