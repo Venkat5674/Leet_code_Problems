@@ -10,4 +10,4 @@
 
 6. https://leetcode.com/problems/cache-with-time-limit/
 
-7.https://leetcode.com/problems/debounce/
+7. https://leetcode.com/problems/debounce/
