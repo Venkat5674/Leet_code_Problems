@@ -7,3 +7,5 @@
 4. https://leetcode.com/problems/interval-cancellation/
 
 5. https://leetcode.com/problems/promise-time-limit/
+
+6. https://leetcode.com/problems/cache-with-time-limit/
