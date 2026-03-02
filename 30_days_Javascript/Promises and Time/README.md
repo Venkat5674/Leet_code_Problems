@@ -11,3 +11,5 @@
 6. https://leetcode.com/problems/cache-with-time-limit/
 
 7. https://leetcode.com/problems/debounce/
+
+8. https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/
