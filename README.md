@@ -115,3 +115,5 @@
 58.https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 
 59.https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+
+60.https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02/
