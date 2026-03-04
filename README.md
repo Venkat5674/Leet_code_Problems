@@ -116,4 +116,6 @@
 
 59.https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 
-60.https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02/
+60.https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
+
+61.https://leetcode.com/problems/special-positions-in-a-binary-matrix/
