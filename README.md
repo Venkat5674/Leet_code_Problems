@@ -119,3 +119,5 @@
 60.https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 
 61.https://leetcode.com/problems/special-positions-in-a-binary-matrix/
+
+62.https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
