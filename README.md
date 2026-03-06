@@ -121,3 +121,5 @@
 61.https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 
 62.https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+
+63.https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
