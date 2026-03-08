@@ -125,3 +125,5 @@
 63.https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 
 64.https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
+
+65.https://leetcode.com/problems/find-unique-binary-string/
