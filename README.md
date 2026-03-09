@@ -127,3 +127,5 @@
 64.https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/
 
 65.https://leetcode.com/problems/find-unique-binary-string/
+
+66.https://leetcode.com/problems/running-sum-of-1d-array/
