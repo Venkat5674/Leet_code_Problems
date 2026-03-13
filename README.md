@@ -135,3 +135,5 @@
 68.https://leetcode.com/problems/complement-of-base-10-integer/
 
 69.https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
+70.https://leetcode.com/problems/binary-search/
