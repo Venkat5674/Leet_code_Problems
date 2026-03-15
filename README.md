@@ -139,3 +139,5 @@
 70.https://leetcode.com/problems/binary-search/
 
 71.https://leetcode.com/problems/sort-colors/
+
+72.https://leetcode.com/problems/fancy-sequence/
