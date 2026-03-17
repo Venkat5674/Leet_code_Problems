@@ -143,3 +143,5 @@
 72.https://leetcode.com/problems/fancy-sequence/
 
 73.https://leetcode.com/problems/happy-number/
+
+74.https://leetcode.com/problems/power-of-three/
