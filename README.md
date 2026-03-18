@@ -145,3 +145,5 @@
 73.https://leetcode.com/problems/happy-number/
 
 74.https://leetcode.com/problems/power-of-three/
+
+75.https://leetcode.com/problems/move-zeroes/
