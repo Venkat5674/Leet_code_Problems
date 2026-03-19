@@ -149,3 +149,5 @@
 75.https://leetcode.com/problems/move-zeroes/
 
 76.https://leetcode.com/problems/maximum-subarray/
+
+77.https://leetcode.com/problems/binary-tree-preorder-traversal/
