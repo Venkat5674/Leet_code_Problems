@@ -27,8 +27,10 @@ class Solution {
         if (node == null) {
             return;
         }
+        
         res.add(node.val);
         preorder(node.left, res);
         preorder(node.right, res);
+        
     }
 }
