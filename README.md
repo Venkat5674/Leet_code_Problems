@@ -167,3 +167,5 @@
 84.https://leetcode.com/problems/squares-of-a-sorted-array/
 
 85.https://leetcode.com/problems/length-of-last-word/
+
+86.https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
