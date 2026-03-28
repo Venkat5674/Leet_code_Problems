@@ -169,3 +169,5 @@
 85.https://leetcode.com/problems/length-of-last-word/
 
 86.https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
+
+87.https://leetcode.com/problems/find-the-string-with-lcp/
