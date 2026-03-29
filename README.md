@@ -171,3 +171,5 @@
 86.https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts/
 
 87.https://leetcode.com/problems/find-the-string-with-lcp/
+
+88.https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
