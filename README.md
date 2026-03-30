@@ -173,3 +173,5 @@
 87.https://leetcode.com/problems/find-the-string-with-lcp/
 
 88.https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/
+
+89.https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/
