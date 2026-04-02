@@ -179,3 +179,5 @@
 90.https://leetcode.com/problems/search-insert-position/
 
 91.https://leetcode.com/problems/range-sum-query-immutable/
+
+92.https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/
