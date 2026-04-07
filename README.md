@@ -187,3 +187,5 @@
 94.https://leetcode.com/problems/robot-return-to-origin/
 
 95.https://leetcode.com/problems/walking-robot-simulation/
+
+96.https://leetcode.com/problems/walking-robot-simulation-ii/
