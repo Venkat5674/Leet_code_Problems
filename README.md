@@ -189,3 +189,5 @@
 95.https://leetcode.com/problems/walking-robot-simulation/
 
 96.https://leetcode.com/problems/walking-robot-simulation-ii/
+
+97.https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/
