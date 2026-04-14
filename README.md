@@ -197,3 +197,5 @@
 99.https://leetcode.com/problems/max-consecutive-ones/
 
 100.https://leetcode.com/problems/minimum-distance-to-the-target-element/
+
+101.https://leetcode.com/problems/minimum-total-distance-traveled/
