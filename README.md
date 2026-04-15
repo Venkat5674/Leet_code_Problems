@@ -199,3 +199,5 @@
 100.https://leetcode.com/problems/minimum-distance-to-the-target-element/
 
 101.https://leetcode.com/problems/minimum-total-distance-traveled/
+
+102.https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
