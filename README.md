@@ -201,3 +201,5 @@
 101.https://leetcode.com/problems/minimum-total-distance-traveled/
 
 102.https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/
+
+103.https://leetcode.com/problems/closest-equal-element-queries/
