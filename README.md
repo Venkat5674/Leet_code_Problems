@@ -205,3 +205,5 @@
 103.https://leetcode.com/problems/closest-equal-element-queries/
 
 104.https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/
+
+105.https://leetcode.com/problems/mirror-distance-of-an-integer/
