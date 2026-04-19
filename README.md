@@ -207,3 +207,5 @@
 104.https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/
 
 105.https://leetcode.com/problems/mirror-distance-of-an-integer/
+
+106.https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
