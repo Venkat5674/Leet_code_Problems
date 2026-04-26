@@ -219,3 +219,5 @@
 110.https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 111.https://leetcode.com/problems/furthest-point-from-origin/
+
+112.https://leetcode.com/problems/detect-cycles-in-2d-grid/
