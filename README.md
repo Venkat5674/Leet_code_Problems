@@ -223,3 +223,5 @@
 112.https://leetcode.com/problems/detect-cycles-in-2d-grid/
 
 113.https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
+
+114.https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
