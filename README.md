@@ -237,3 +237,5 @@
 119.https://leetcode.com/problems/rotate-string/
 
 120.https://leetcode.com/problems/rotate-image/
+
+121.https://leetcode.com/problems/rotate-list/
