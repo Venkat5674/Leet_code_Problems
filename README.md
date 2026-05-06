@@ -239,3 +239,5 @@
 120.https://leetcode.com/problems/rotate-image/
 
 121.https://leetcode.com/problems/rotate-list/
+
+122.https://leetcode.com/problems/rotating-the-box/
