@@ -245,3 +245,5 @@
 123.https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/
 
 124.https://leetcode.com/problems/cyclically-rotating-a-grid/
+
+125.https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/
