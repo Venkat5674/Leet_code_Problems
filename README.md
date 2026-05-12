@@ -251,3 +251,5 @@
 126.https://leetcode.com/problems/separate-the-digits-in-an-array/
 
 127.https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
+
+128.https://leetcode.com/problems/generate-fibonacci-sequence/
