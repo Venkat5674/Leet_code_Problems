@@ -249,3 +249,5 @@
 125.https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/
 
 126.https://leetcode.com/problems/separate-the-digits-in-an-array/
+
+127.https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
