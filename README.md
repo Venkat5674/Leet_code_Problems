@@ -257,3 +257,5 @@
 129.https://leetcode.com/problems/same-tree/
 
 130.https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
+
+131.https://leetcode.com/problems/check-if-array-is-good/
