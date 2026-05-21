@@ -271,3 +271,5 @@
 136.https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 
 137.https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+138.https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
