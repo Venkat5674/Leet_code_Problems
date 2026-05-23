@@ -275,3 +275,5 @@
 138.https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 
 139.https://leetcode.com/problems/search-in-rotated-sorted-array/
+
+140.https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
