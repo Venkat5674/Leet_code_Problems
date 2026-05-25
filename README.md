@@ -279,3 +279,5 @@
 140.https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 141.https://leetcode.com/problems/jump-game-v/
+
+142.https://leetcode.com/problems/jump-game-vii/
