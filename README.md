@@ -281,3 +281,5 @@
 141.https://leetcode.com/problems/jump-game-v/
 
 142.https://leetcode.com/problems/jump-game-vii/
+
+143.https://leetcode.com/problems/count-the-number-of-special-characters-i/
