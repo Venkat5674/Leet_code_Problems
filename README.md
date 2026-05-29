@@ -285,3 +285,5 @@
 143.https://leetcode.com/problems/count-the-number-of-special-characters-i/
 
 144.https://leetcode.com/problems/count-the-number-of-special-characters-ii/
+
+145.https://leetcode.com/problems/longest-common-suffix-queries/
