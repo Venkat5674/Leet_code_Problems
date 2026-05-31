@@ -289,3 +289,5 @@
 145.https://leetcode.com/problems/longest-common-suffix-queries/
 
 146.https://leetcode.com/problems/block-placement-queries
+
+147.https://leetcode.com/problems/destroying-asteroids/
