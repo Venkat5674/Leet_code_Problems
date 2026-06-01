@@ -291,3 +291,5 @@
 146.https://leetcode.com/problems/block-placement-queries
 
 147.https://leetcode.com/problems/destroying-asteroids/
+
+148.https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
