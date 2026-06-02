@@ -293,3 +293,5 @@
 147.https://leetcode.com/problems/destroying-asteroids/
 
 148.https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+
+149.https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/
