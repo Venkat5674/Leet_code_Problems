@@ -315,3 +315,5 @@
 158.https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 
 159.https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+
+160.https://leetcode.com/problems/process-string-with-special-operations-i
