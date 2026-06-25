@@ -329,3 +329,5 @@
 165.https://leetcode.com/problems/number-of-zigzag-arrays-i/
 
 166.https://leetcode.com/problems/number-of-zigzag-arrays-ii/
+
+167.https://leetcode.com/problems/count-subarrays-with-majority-element-i/
