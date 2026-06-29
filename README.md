@@ -335,3 +335,5 @@
 168.https://leetcode.com/problems/count-subarrays-with-majority-element-ii/
 
 169.https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/
+
+170.https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
