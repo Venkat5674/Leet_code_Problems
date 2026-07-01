@@ -339,3 +339,5 @@
 170.https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 
 171.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+
+172.https://leetcode.com/problems/find-the-safest-path-in-a-grid/
