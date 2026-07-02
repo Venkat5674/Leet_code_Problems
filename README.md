@@ -341,3 +341,5 @@
 171.https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 
 172.https://leetcode.com/problems/find-the-safest-path-in-a-grid/
+
+173.https://leetcode.com/problems/find-a-safe-walk-through-a-grid/
