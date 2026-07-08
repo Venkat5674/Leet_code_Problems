@@ -347,3 +347,5 @@
 174.https://leetcode.com/problems/remove-covered-intervals/
 
 175.https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/
+
+176.https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/
