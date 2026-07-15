@@ -359,3 +359,5 @@
 180.https://leetcode.com/problems/sequential-digits/
 
 181.https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/
+
+182.https://leetcode.com/problems/gcd-of-odd-and-even-sums/
