@@ -363,3 +363,5 @@
 182.https://leetcode.com/problems/gcd-of-odd-and-even-sums/
 
 188.https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
+
+189.https://leetcode.com/problems/sorted-gcd-pair-queries
