@@ -365,3 +365,5 @@
 188.https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/
 
 189.https://leetcode.com/problems/sorted-gcd-pair-queries
+
+190.https://leetcode.com/problems/find-greatest-common-divisor-of-array/
