@@ -369,3 +369,5 @@
 190.https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 
 191.https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+
+192.https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
