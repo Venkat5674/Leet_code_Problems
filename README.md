@@ -373,3 +373,5 @@
 192.https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
 
 193.https://leetcode.com/problems/predict-the-winner/
+
+194.https://leetcode.com/problems/remove-methods-from-project/
