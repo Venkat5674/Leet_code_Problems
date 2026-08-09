@@ -376,3 +376,5 @@
 193.https://leetcode.com/problems/predict-the-winner/
 
 194.https://leetcode.com/problems/remove-methods-from-project/
+
+195.https://leetcode.com/problems/stone-game-ii/
