@@ -371,6 +371,7 @@
 191.https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 
 192.https://leetcode.com/problems/smallest-divisible-digit-product-i/
+
 192.https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
 
 193.https://leetcode.com/problems/predict-the-winner/
@@ -378,3 +379,5 @@
 194.https://leetcode.com/problems/remove-methods-from-project/
 
 195.https://leetcode.com/problems/stone-game-ii/
+
+196.https://leetcode.com/problems/stone-game-ix/
