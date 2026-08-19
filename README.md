@@ -383,3 +383,5 @@
 196.https://leetcode.com/problems/stone-game-ix/
 
 197.https://leetcode.com/problems/stone-game-v/
+
+198.https://leetcode.com/problems/cinema-seat-allocation/
