@@ -387,3 +387,5 @@
 198.https://leetcode.com/problems/cinema-seat-allocation/
 
 199.https://leetcode.com/problems/longest-palindromic-substring/
+
+200.https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
