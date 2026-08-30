@@ -391,3 +391,5 @@
 200.https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target/
 
 201.https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/
+
+202.https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
