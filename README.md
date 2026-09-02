@@ -395,3 +395,5 @@
 202.https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 
 203.https://leetcode.com/problems/minimum-moves-to-clean-the-classroom/
+
+204.https://leetcode.com/problems/construct-uniform-parity-array-i/
