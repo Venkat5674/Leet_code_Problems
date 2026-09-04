@@ -399,3 +399,5 @@
 204.https://leetcode.com/problems/construct-uniform-parity-array-i/
 
 205.https://leetcode.com/problems/construct-uniform-parity-array-ii/
+
+206.https://leetcode.com/problems/smallest-stable-index-i/
