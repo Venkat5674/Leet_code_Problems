@@ -457,3 +457,5 @@
 233.https://leetcode.com/problems/remove-outermost-parentheses/
 
 234.https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+
+235.https://leetcode.com/problems/minimum-sum-of-squared-difference/
