@@ -461,3 +461,5 @@
 235.https://leetcode.com/problems/minimum-sum-of-squared-difference/
 
 236.https://leetcode.com/problems/sum-of-squares-of-special-elements/
+
+237.https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
