@@ -463,3 +463,5 @@
 236.https://leetcode.com/problems/sum-of-squares-of-special-elements/
 
 237.https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
+
+238.https://leetcode.com/problems/maximum-alternating-sum-of-squares/
