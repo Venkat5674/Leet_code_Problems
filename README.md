@@ -465,3 +465,5 @@
 237.https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/
 
 238.https://leetcode.com/problems/maximum-alternating-sum-of-squares/
+
+239.https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
