@@ -469,3 +469,5 @@
 239.https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
 
 240.https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
+
+241.https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/
