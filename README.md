@@ -471,3 +471,5 @@
 240.https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
 
 241.https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/
+
+242.https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
