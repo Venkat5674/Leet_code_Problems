@@ -477,3 +477,5 @@
 243.https://leetcode.com/problems/number-of-closed-islands/
 
 244.https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
+
+245.https://leetcode.com/problems/create-grid-with-exactly-one-path/
