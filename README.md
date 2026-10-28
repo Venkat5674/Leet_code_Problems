@@ -479,3 +479,5 @@
 244.https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/
 
 245.https://leetcode.com/problems/create-grid-with-exactly-one-path/
+
+246.https://leetcode.com/problems/minimum-xor-path-in-a-grid/
