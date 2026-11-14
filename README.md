@@ -481,3 +481,5 @@
 245.https://leetcode.com/problems/create-grid-with-exactly-one-path/
 
 246.https://leetcode.com/problems/minimum-xor-path-in-a-grid/
+
+247.https://leetcode.com/problems/minimum-positive-sum-subarray/
