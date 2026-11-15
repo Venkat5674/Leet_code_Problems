@@ -483,3 +483,5 @@
 246.https://leetcode.com/problems/minimum-xor-path-in-a-grid/
 
 247.https://leetcode.com/problems/minimum-positive-sum-subarray/
+
+248.https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
