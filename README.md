@@ -485,3 +485,5 @@
 247.https://leetcode.com/problems/minimum-positive-sum-subarray/
 
 248.https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+
+249.https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
