@@ -487,3 +487,5 @@
 248.https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 
 249.https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
+
+250.https://leetcode.com/problems/maximum-subarray-with-equal-products/
