@@ -489,3 +489,5 @@
 249.https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes/
 
 250.https://leetcode.com/problems/maximum-subarray-with-equal-products/
+
+251.https://leetcode.com/problems/stone-removal-game/
